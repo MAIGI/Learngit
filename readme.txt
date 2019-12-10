@@ -1,5 +1,9 @@
 Git is a distributed version control system
+<<<<<<< HEAD
 Git is free software distributed under the GPL
+=======
+Git is  really a free software distributed under the GPL
+>>>>>>> 8dfd7ad... fix bug 101
 Git has a mutable index called stage
 Git tracks changes of changes
 My stupid boss still prefer SVN
