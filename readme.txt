@@ -6,4 +6,5 @@ My stupid boss still prefer SVN
 Creating a new branch is quick
 Createing a new branch is quick and simple
 Created a test branch
+No fast-forward test
 
