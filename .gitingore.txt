@@ -1,7 +1,5 @@
 # Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+*.db
 
 # My configurations
 db.ini
